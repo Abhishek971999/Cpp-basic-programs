@@ -16,6 +16,6 @@
 * [Palindrome number](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Simple%20Programs/palindrome.cpp)
 * [Power of a number](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Simple%20Programs/power_of_number.cpp)
 * [Sum of digits of number](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Simple%20Programs/sum_of_digits.cpp)
-* [Sum of natural numbersk](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Simple%20Programs/sum_of_natural_nos.cpp)
+* [Sum of natural numbers](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Simple%20Programs/sum_of_natural_nos.cpp)
 * [Swap 2 numbers](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Simple%20Programs/swap_2_nos.cpp)
 * [Table of any number](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Simple%20Programs/tables.cpp)
