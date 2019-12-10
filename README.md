@@ -19,3 +19,16 @@
 * [Sum of natural numbers](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Simple%20Programs/sum_of_natural_nos.cpp)
 * [Swap 2 numbers](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Simple%20Programs/swap_2_nos.cpp)
 * [Table of any number](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Simple%20Programs/tables.cpp)
+
+### String Based Programs
+* [Length of String](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/String%20Based%20Programs/length_of_string.cpp)
+
+### Formula Based Programs
+* [Area of Circle](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Formula%20Based%20Programs/area_circle.cpp)
+* [Area and Perimeter of rectangle](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Formula%20Based%20Programs/area_perimeter_rectangle.cpp)
+* [Celsius to Fahrenheit](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Formula%20Based%20Programs/celc_to_fah.cpp)
+* [Circumference of Circle](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Formula%20Based%20Programs/circumference_circle.cpp)
+* [Compound Interest](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Formula%20Based%20Programs/compound_interest.cpp)
+* [Fahrenheit to Celsius](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Formula%20Based%20Programs/fah_to_cel.cpp)
+* [Simple Interest](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Formula%20Based%20Programs/simple_interest.cpp)
+* [Student Marks Average](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Formula%20Based%20Programs/student_marks_avg.cpp)
