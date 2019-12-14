@@ -22,6 +22,13 @@
 
 ### String Based Programs
 * [Length of String](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/String%20Based%20Programs/length_of_string.cpp)
+* [Character frequency in string](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/String%20Based%20Programs/char_freq.cpp)
+* [Count Vowels in Sentence](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/String%20Based%20Programs/count_vowels.cpp)
+* [Count Word in Sentence](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/String%20Based%20Programs/count_word.cpp)
+* [String Concatenation](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/String%20Based%20Programs/str_cat.cpp)
+* [Copy a String](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/String%20Based%20Programs/str_cpy.cpp)
+* [Reverse a String](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/String%20Based%20Programs/str_rev.cpp)
+* [Swap String](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/String%20Based%20Programs/swap_str.cpp)
 
 ### Formula Based Programs
 * [Area of Circle](https://github.com/Abhishek971999/Cpp-basic-programs/blob/master/Formula%20Based%20Programs/area_circle.cpp)
